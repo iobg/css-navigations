@@ -1,0 +1,8 @@
+a:hover {color:blue;}
+li:hover{background:red;}
+li:active{padding-left:5px;
+	padding-right:5px;}
+li{list-style-type:none;
+	display:inline-block;
+	font-size:50px;}
+
